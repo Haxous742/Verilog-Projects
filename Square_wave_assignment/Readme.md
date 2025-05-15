@@ -145,3 +145,9 @@ In GTKWave, you’ll observe:
 - **out1**: High for `counter = 0, 1` (500 ns), low for `counter = 2, 3` (500 ns), frequency = 1 MHz.
 - **out2**: High for `counter = 1, 2` (500 ns, shifted by 250 ns), low for `counter = 0, 3`, frequency = 1 MHz.
 - **Reset Behavior**: Outputs are 0 and counter resets to 0 when `reset = 1`.
+
+## Images-
+
+![alt text](image.png)
+
+![alt text](image_annotated.png)
